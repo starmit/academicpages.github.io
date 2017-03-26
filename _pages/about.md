@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am now a Ph.D candidate in the State Key Laboratory of Management and Control for Complex Systems, Institute of Automation Chinese Academy of Sciences. My research interests are in intelligent transportation systems (ITSs) and deep learning.
+I am now a Ph.D. candidate in the State Key Laboratory of Management and Control for Complex Systems, Institute of Automation Chinese Academy of Sciences. My research interests are in intelligent transportation systems (ITSs) and deep learning.
